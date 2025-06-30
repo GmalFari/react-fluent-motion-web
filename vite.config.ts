@@ -1,6 +1,6 @@
 
 import { defineConfig } from "vite";
-import { vitePlugin as remix } from "@remix-run/dev";
+import { reactRouter } from "@react-router/dev/vite";
 import react from "@vitejs/plugin-react";
 import path from "path";
 import { componentTagger } from "lovable-tagger";
@@ -9,7 +9,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 export default defineConfig(({ mode }) => ({
   plugins: [
-    remix(),
+    reactRouter(),
     react({
       babel: {
         plugins: ['macros']
@@ -58,7 +58,7 @@ export default defineConfig(({ mode }) => ({
       output: {
         manualChunks: {
           vendor: ['react', 'react-dom'],
-          router: ['react-router-dom'],
+          router: ['@react-router/react'],
           i18n: ['@lingui/core', '@lingui/react'],
           motion: ['framer-motion'],
           charts: ['recharts'],
