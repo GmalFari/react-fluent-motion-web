@@ -1,0 +1,18 @@
+
+name = "modern-react-app"
+compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[build]
+command = "npm run build"
+cwd = "."
+
+[[routes]]
+pattern = "*"
+custom_domain = false
+
+[env.production]
+name = "modern-react-app-production"
+
+[env.staging]
+name = "modern-react-app-staging"

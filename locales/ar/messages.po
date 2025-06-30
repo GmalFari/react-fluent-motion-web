@@ -1,0 +1,88 @@
+
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-01 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Modern React App"
+msgstr "تطبيق React حديث"
+
+msgid "Next Generation"
+msgstr "الجيل القادم"
+
+msgid "React Application"
+msgstr "تطبيق React"
+
+msgid "Built with cutting-edge technologies including React Router v7, SSR, internationalization, and advanced performance optimizations"
+msgstr "مبني بأحدث التقنيات بما في ذلك React Router v7 و SSR والدولية وتحسينات الأداء المتقدمة"
+
+msgid "Explore Features"
+msgstr "استكشف الميزات"
+
+msgid "Powerful Features"
+msgstr "ميزات قوية"
+
+msgid "Everything you need for a modern, high-performance web application"
+msgstr "كل ما تحتاجه لتطبيق ويب حديث وعالي الأداء"
+
+msgid "High Performance"
+msgstr "أداء عالي"
+
+msgid "Optimized for speed with advanced bundling and caching strategies"
+msgstr "محسّن للسرعة مع استراتيجيات التجميع والتخزين المؤقت المتقدمة"
+
+msgid "Internationalization"
+msgstr "التدويل"
+
+msgid "Full support for Arabic and English with RTL layout"
+msgstr "دعم كامل للعربية والإنجليزية مع تخطيط RTL"
+
+msgid "Modern Stack"
+msgstr "مجموعة تقنيات حديثة"
+
+msgid "React Router v7, TypeScript, Vite, and Tailwind CSS"
+msgstr "React Router v7 و TypeScript و Vite و Tailwind CSS"
+
+msgid "Beautiful UI"
+msgstr "واجهة مستخدم جميلة"
+
+msgid "Smooth animations with Framer Motion and modern design"
+msgstr "رسوم متحركة سلسة مع Framer Motion وتصميم حديث"
+
+msgid "Production Ready"
+msgstr "جاهز للإنتاج"
+
+msgid "SSR, PWA, and Cloudflare deployment ready"
+msgstr "جاهز لـ SSR و PWA ونشر Cloudflare"
+
+msgid "Performance Metrics"
+msgstr "مقاييس الأداء"
+
+msgid "Real-time performance data from your current session"
+msgstr "بيانات الأداء في الوقت الفعلي من جلستك الحالية"
+
+msgid "Back to Home"
+msgstr "العودة للرئيسية"
+
+msgid "Technical Features"
+msgstr "الميزات التقنية"
+
+msgid "Comprehensive overview of all the modern technologies and optimizations integrated into this application"
+msgstr "نظرة عامة شاملة على جميع التقنيات الحديثة والتحسينات المدمجة في هذا التطبيق"
+
+msgid "Core Technologies"
+msgstr "التقنيات الأساسية"
+
+msgid "Performance Optimizations"
+msgstr "تحسينات الأداء"
+
+msgid "Ready for Production"
+msgstr "جاهز للإنتاج"
+
+msgid "This application is optimized for deployment on Cloudflare Workers with full SSR support and edge computing capabilities"
+msgstr "هذا التطبيق محسّن للنشر على Cloudflare Workers مع دعم SSR الكامل وقدرات الحوسبة الطرفية"
+
+msgid "Get Started"
+msgstr "ابدأ الآن"

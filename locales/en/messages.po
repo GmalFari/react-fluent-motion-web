@@ -1,0 +1,88 @@
+
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-01 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Modern React App"
+msgstr "Modern React App"
+
+msgid "Next Generation"
+msgstr "Next Generation"
+
+msgid "React Application"
+msgstr "React Application"
+
+msgid "Built with cutting-edge technologies including React Router v7, SSR, internationalization, and advanced performance optimizations"
+msgstr "Built with cutting-edge technologies including React Router v7, SSR, internationalization, and advanced performance optimizations"
+
+msgid "Explore Features"
+msgstr "Explore Features"
+
+msgid "Powerful Features"
+msgstr "Powerful Features"
+
+msgid "Everything you need for a modern, high-performance web application"
+msgstr "Everything you need for a modern, high-performance web application"
+
+msgid "High Performance"
+msgstr "High Performance"
+
+msgid "Optimized for speed with advanced bundling and caching strategies"
+msgstr "Optimized for speed with advanced bundling and caching strategies"
+
+msgid "Internationalization"
+msgstr "Internationalization"
+
+msgid "Full support for Arabic and English with RTL layout"
+msgstr "Full support for Arabic and English with RTL layout"
+
+msgid "Modern Stack"
+msgstr "Modern Stack"
+
+msgid "React Router v7, TypeScript, Vite, and Tailwind CSS"
+msgstr "React Router v7, TypeScript, Vite, and Tailwind CSS"
+
+msgid "Beautiful UI"
+msgstr "Beautiful UI"
+
+msgid "Smooth animations with Framer Motion and modern design"
+msgstr "Smooth animations with Framer Motion and modern design"
+
+msgid "Production Ready"
+msgstr "Production Ready"
+
+msgid "SSR, PWA, and Cloudflare deployment ready"
+msgstr "SSR, PWA, and Cloudflare deployment ready"
+
+msgid "Performance Metrics"
+msgstr "Performance Metrics"
+
+msgid "Real-time performance data from your current session"
+msgstr "Real-time performance data from your current session"
+
+msgid "Back to Home"
+msgstr "Back to Home"
+
+msgid "Technical Features"
+msgstr "Technical Features"
+
+msgid "Comprehensive overview of all the modern technologies and optimizations integrated into this application"
+msgstr "Comprehensive overview of all the modern technologies and optimizations integrated into this application"
+
+msgid "Core Technologies"
+msgstr "Core Technologies"
+
+msgid "Performance Optimizations"
+msgstr "Performance Optimizations"
+
+msgid "Ready for Production"
+msgstr "Ready for Production"
+
+msgid "This application is optimized for deployment on Cloudflare Workers with full SSR support and edge computing capabilities"
+msgstr "This application is optimized for deployment on Cloudflare Workers with full SSR support and edge computing capabilities"
+
+msgid "Get Started"
+msgstr "Get Started"
