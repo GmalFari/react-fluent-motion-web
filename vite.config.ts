@@ -61,6 +61,7 @@ export default defineConfig(({ mode }) => ({
           router: ['@react-router/react'],
           i18n: ['@lingui/core', '@lingui/react'],
           motion: ['framer-motion'],
+          charts: ['recharts'],
         },
       },
     },
